@@ -24,8 +24,3 @@ textblob
 tqdm
 spacy==3.7.4
 pydantic==1.10.13
-```
-
-And also add a **`runtime.txt`** file in your repo root to force an older Python version:
-```
-python-3.11
