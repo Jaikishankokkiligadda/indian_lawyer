@@ -1,0 +1,1 @@
+timestamp,query,retrieved_chunks,retrieval_score,latency_ms,hallucination_score,faithfulness,answer_length
