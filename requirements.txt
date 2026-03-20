@@ -19,4 +19,3 @@ python-docx>=1.1.0
 textblob
 tqdm
 pydantic>=2.0.0
-spacy==3.7.6
